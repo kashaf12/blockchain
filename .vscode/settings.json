@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "JuanBlanco.solidity",
+    "editor.parameterHints.cycle": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.quickSuggestionsDelay": 1,
+    "files.autoGuessEncoding": true,
+    "debug.allowBreakpointsEverywhere": true
+}
